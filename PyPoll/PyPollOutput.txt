@@ -1,0 +1,8 @@
+                 Candidate  Ballot ID  County
+0  Charles Casper Stockham      85213   85213
+1            Diana DeGette     272892  272892
+2     Raymon Anthony Doane      11606   11606
+Ballot ID                 7999927
+County                  Jefferson
+Candidate    Raymon Anthony Doane
+dtype: object
